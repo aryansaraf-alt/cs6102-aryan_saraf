@@ -72,7 +72,7 @@ Standard Error = $\frac{1}{\sqrt{N - 3}}$ , where N -> Number of Traces.
 
 Now, in the Z space, Z(Confidence Interval) = $Z \pm 1.96 \cdot \frac{1}{\sqrt{N - 3}}$
 
-Why 1.96, since in the standard normal curve, the value of x-axis is aproximately $\pm $ 1.96 $ \mu $ (standard deviation) which covers 95% of the area under the curve.
+Why 1.96, since in the standard normal curve, the value of x-axis is aproximately $ \pm $ 1.96 $ \mu $ (standard deviation) which covers 95% of the area under the curve.
 
 To get Correlational Value -> r = tanh(Z).
 
